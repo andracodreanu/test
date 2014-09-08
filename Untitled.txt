@@ -1,4 +1,5 @@
 hello
+<<<<<<< HEAD
 hello again
 sdsd
 <<<<<<< HEAD
@@ -7,3 +8,6 @@ jfgdsfds
 =======
 dff
 >>>>>>> firstBranch
+=======
+hello again
+>>>>>>> master
